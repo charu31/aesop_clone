@@ -19,7 +19,6 @@ const Slider3 = ({ slider3data }) => {
           slidesPerView={1}
           scrollbar={{ draggable: true }}
           navigation
-          autoplay={true}
           loop={true} 
           autoplay= {{
             delay: 2500,
